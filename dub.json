@@ -1,0 +1,9 @@
+{
+	"name" : "glskeleton",
+	"lflags": ["-LlibDerelictGLFW3"],
+	"description" : "Hello World - A minimal DUB bundle.",
+	"dependencies" : {
+		"derelict-glfw3": "~>1.1.1",
+		"derelict-gl3": "~>1.0.18"
+	}
+}
